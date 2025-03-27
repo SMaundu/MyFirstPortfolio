@@ -1,0 +1,135 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body Styling */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f9;
+    color: #000000;
+    padding: 20px;
+}
+
+/* Header Styling */
+header {
+    background: #6a1414;
+    color: #fff;
+    padding: 10px 20px;
+    text-align: center;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+img {
+    width: 10%;
+    border-radius: 8px;
+    height: 30%;
+    height: auto;
+    padding: 0%;
+}
+
+header h1 {
+    margin: 10px 0;
+    font-size: 3.5rem;
+    align-items: 10px;
+    display: inline-block;
+    vertical-align:top;
+    padding-top: 50px;
+}
+
+/* Navigation Styling */
+nav {
+    margin: 20px 0;
+    text-align: center;
+   
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 10px 10px;
+    font-weight: bold;
+    display: inline-block;
+    padding: 5px 15px;
+    border-radius: 8px;
+    background-color: #f7a306;
+    cursor: pointer;
+    text-align: center;
+    white-space: nowrap;
+    transition: background-color 0.3s, color 0.3s;
+   
+}
+
+nav a:hover {
+    background-color: #d4bbbb;
+    color: #fff;
+    transform: scale(1.1);
+}
+
+/* Main Content Styling */
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    background: #ded9d9;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(110, 4, 4, 0.1);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15pt;
+}
+main a{
+    color: #fff;
+    text-decoration: none;
+    margin: 10px 10px;
+    font-weight:100;
+    display: inline-block;
+    padding:3px 15px;
+    border-radius: 8px;
+    background-color: #f7a306;
+    cursor: pointer;
+    text-align: center;
+    white-space: nowrap;
+    transition: background-color 0.3s, color 0.3s;
+    
+}
+main a:hover {
+
+    background-color: #6a1414;
+    color: #fff;
+    transform: translateX(10px);
+
+}
+button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    border: none;
+    border-radius: 5px;
+    background-color: #f7a306;
+    align-items: center;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+button:hover {
+    background-color: #6a1414;
+    transform: scale(1.05);
+}
+
+/* Footer Styling */
+footer {
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+    background: #6a1414;
+    color: #fff;
+    border-radius: 8px;
+}
+
+footer p {
+    margin: 0;
+    font-size: 0.9rem;
+}
