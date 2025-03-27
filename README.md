@@ -30,7 +30,7 @@ Edit
 │── images/           # Folder for images
 │── README.md         # Project documentation
 
-🔗 GitHub Pages / 
+🔗 GitHub Pages: https://smaundu.github.io/MyFirstPortfolio/
 Vercel URL: https://my-first-portfolio-3jbqimf1i-smaundus-projects.vercel.app/
 
 
