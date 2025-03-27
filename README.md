@@ -18,9 +18,6 @@ CSS – Styling and responsiveness
 GitHub Pages / Vercel – Hosting the live website
 
 📂 Folder Structure
-bash
-Copy
-Edit
 /my-portfolio
 │── index.html        # Home Page
 │── education.html    # Education Page
